@@ -1,2 +1,0 @@
-# Portofolio
-Latihan Buat Portofolio
